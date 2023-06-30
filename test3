@@ -1,0 +1,5 @@
+test file 3
+
+public void function1() {
+  message 'test';
+}
